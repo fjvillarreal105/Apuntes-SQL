@@ -1,0 +1,4 @@
+* WHERE *CAMPO* LIKE = El like es para mostrar campos parecids para hacer una busqeuda con ciertas caracteristicas se agrega '%' lo que este a lado del porcentaje busca
+* WHERE *CAMPO* NOT RLIKE = Trae los campos que no son parecidos a lo determinado en el RLIKE 
+* ^[aeiouAEIOU] = Asi se manda a llamar todas las vocales o excluye todas las vocales depende como se use NOTA: ESTO ES PARA MYSQL
+    *[aeiou] = Asi se usa en sql
