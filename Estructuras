@@ -3,3 +3,4 @@
 * ^[aeiouAEIOU] = Asi se manda a llamar todas las vocales o excluye todas las vocales depende como se use NOTA: ESTO ES PARA MYSQL
     *[aeiou] = Asi se usa en sql
 * ORDER BY RIGHT(campo, digitos) = Manda a llamar los digitos del lado indicado
+* CEILING = Redondea al decimal como CEILING(53.25) resultado seria 54
